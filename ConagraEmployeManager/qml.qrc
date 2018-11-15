@@ -1,0 +1,23 @@
+<RCC>
+    <qresource prefix="/">
+        <file>main.qml</file>
+        <file>MainPages/Schedule.qml</file>
+        <file>qtquickcontrols2.conf</file>
+        <file>MainPages/Absences.qml</file>
+        <file>MainPages/Vacations.qml</file>
+        <file>MainPages/Employes.qml</file>
+        <file>MainPages/AbsencesPages/Add.qml</file>
+        <file>MainPages/AbsencesPages/Query.qml</file>
+        <file>MainPages/AbsencesPages/AbsenceInfoDelegate.qml</file>
+        <file>MainPages/EmployePages/Add.qml</file>
+        <file>MainPages/AbsencesPages/Update.qml</file>
+        <file>MainPages/Productions.qml</file>
+        <file>MainPages/Postes.qml</file>
+        <file>MainPages/EmployePages/Update.qml</file>
+        <file>MainPages/PostesPages/Departements.qml</file>
+        <file>MainPages/Discipline.qml</file>
+        <file>MainPages/DisciplinePages/Add.qml</file>
+        <file>MainPages/DisciplinePages/Update.qml</file>
+        <file>MainPages/DisciplinePages/DisciplineUpdateDelegate.qml</file>
+    </qresource>
+</RCC>
